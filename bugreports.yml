@@ -22,7 +22,7 @@
   actual-result: |
     Кнопка Previous отображается
     
- - summary: |
+- summary: |
     Отображается кнопка Next на последней странице каталога
   environment: |
     Google Chrome Версия 109.0.5414.120 (Официальная сборка), (64 бит)
